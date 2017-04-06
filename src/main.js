@@ -8,6 +8,10 @@ new Vue({
   el: '#app',
   render: h => h(App)
 })
+new Vue({
+    el: '.app',
+    render: h => h(App)
+})
 
 var data = App.data;
 console.log(data().msg)

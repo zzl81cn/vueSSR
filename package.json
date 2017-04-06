@@ -2,7 +2,7 @@
   "name": "vue-ssr-example",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "xuming3 <xuming3@yiche.com>",
+  "author": "zzl81cn",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",

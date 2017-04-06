@@ -1,19 +1,19 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <h2>xm94630</h2>
+    <h2>zzl81cn</h2>
     <ul>
-      <li><a href="http://www.baidu.com">baidu</a></li>
+      <li><a href="http://www.google.com">google</a></li>
     </ul>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'xm',
+  name: 'zzl81cn',
   data () {
     return {
-      msg: '啊哈哈哈哈'
+      msg: 'Oh, yeah!'
     }
   }
 }
